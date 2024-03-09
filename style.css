@@ -1,0 +1,248 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.border:hover {
+    border: 1px solid transparent;
+}
+.panel1{
+    background-color:#C21717;
+    height: 15vh;
+    color: white;
+    margin: 0px 0px 0px -5px;
+}
+.list{
+    margin-left: 25rem;
+    font-size: large;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.icone{
+    margin-left: 40rem;
+    margin-top: .857rem;
+    font-size: x-large;
+    color: white;
+    display: flex;
+    gap: 0.5rem;
+}
+.icone2{
+    margin-left: 38rem;
+    margin-top: .857rem;
+}
+.panel2{
+    background-color: #6B6B6B;
+    height: 30vh;
+    display: flex;
+}
+.iit-logo1{
+    font-size: small;
+}
+.iit-name{
+    text-shadow: rgb(0, 0, 0) 6px -1px 5px;
+    color: white;
+    margin-top: 2rem;
+   font-size: x-large;
+   margin-left: 3rem;
+
+}
+.location{
+    color: white;
+    display: flex;
+    
+}
+.location-logo{
+    font-size: xx-large;
+    margin-left: 15rem;
+    margin-top: 3rem;
+}
+ p{
+    font-size: x-large;
+    margin-right:4rem;
+    margin-top: 5rem;
+    color: white;
+}
+.menu{
+    height: 5vh;
+    background-color: #6B6B6B;
+    color: white;
+    border-bottom: none;
+}
+.bar{
+    padding: 13px 0px 0px;
+    font-size:large;
+    margin-left: 85rem;
+    text-shadow: rgb(0, 0, 0) 6px -1px 5px;
+    margin-bottom: 5rem;
+}
+/* panel3 */
+.panel3{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    background-color:rgba(33, 35, 49, 0.3);
+    visibility: inherit;
+}
+.iitclg-image{
+    height: 100vh;
+    width: 500%;
+    background-image: url(IIT_Delhi_administrative_building.jpg); 
+    background-repeat: no-repeat;
+    visibility: inherit;
+    margin-bottom: 10rem;
+}
+.welcome{
+    margin-top: 10rem;
+    color: white;
+    font-size:50px;
+    border-width: 0px;
+    visibility: inherit;
+    text-align: center;
+    text-shadow: rgb(0, 0, 0) 6px -1px 5px;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    min-height: 0px;
+    min-width: 587px;
+}
+/* panel3 */
+.mainpanel{
+    height: 30vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+/* flask */
+.panel4{
+    width: 20%;
+    background-color: #ffe6e6;
+    padding: 30px,15px,20px;
+    color: black;
+    align-items: center;
+}
+.firstboxflask{
+    margin-top: 2rem;
+    font-size: 5rem;
+    margin-left: 7rem;
+}
+.firstbox1{
+    margin-left: 6.5rem;
+    display: block;
+}
+.firstbox2{
+    margin-top: 2rem;
+    font-size: larger;
+    margin-left: 3rem;
+}
+/* rocket */
+.panel5{
+    width: 20%;
+    color: white;
+    background-color: #C21717;
+    padding: 30px,15px,20px;
+}
+.firstboxrocket{
+    margin-top: 2rem;
+    font-size: 5rem;
+    margin-left: 6rem;
+}
+.firstbox3{
+    margin-left: 5rem;
+    display: block;
+}
+.firstbox4{
+    margin-top: 2rem;
+    font-size: larger;
+    margin-left: 2rem;
+}
+/* newspaper */
+.panel6{
+    width: 20%;
+    color: black;
+    background-color: #ffe6e6;
+    padding: 30px,15px,20px;
+    justify-content: center;
+}
+.firstboxnewspaper{
+    margin-top: 2rem;
+    font-size: 5rem;
+    margin-left: 6rem;
+    align-items: center;
+}
+.firstbox5{
+    margin-left: 6.5rem;
+    display: block;
+}
+.firstbox6{
+    margin-top: 2rem;
+    font-size: larger;
+    margin-left: 3.5rem;
+}
+/* building */
+.panel7{
+    width: 23%;
+    color: white;
+    background-color: #C21717;
+    padding: 30px,15px,20px;
+    justify-content: center;
+}
+.firstboxbulding{
+    margin-top: 2rem;
+    font-size: 5rem;
+    margin-left: 8rem;
+}
+.firstbox7{
+    margin-left: 5rem;
+    display: block;
+}
+.firstbox8{
+    margin-top: 2rem;
+    font-size: larger;
+    margin-left: 2rem;
+}
+.panel8{
+    background-color: white;
+    height: 20vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.l1{
+    color:red;
+    margin-left:32rem;
+}
+.l2{
+    color:black;
+    margin-right:32rem;
+}
+.information{
+    height: 50vh;
+    background-color: white;
+    width: 95%;
+}
+.important{
+    color: #C21717;
+    margin-left: 8rem;
+}
+.important1{
+    margin-bottom:4rem ;
+    align-items: center;
+}
+.important2{
+    margin-bottom:4rem ;
+}
+.important3{
+    margin-bottom:5rem ;
+}
+.important4{
+    margin-bottom:4rem ;
+}
+.important5{
+    margin-bottom:2rem ;
+}
+.panel9{
+    height: 50vh;
+    background-color: #6B6B6B;
+}
+.about{
+    color: white
+} 
